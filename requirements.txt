@@ -1,0 +1,7 @@
+streamlit
+pdfminer.six
+scikit-learn
+pandas
+plotly
+streamlit-option-menu
+reportlab
