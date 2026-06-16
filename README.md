@@ -4,6 +4,12 @@ AI Resume Screening System is an intelligent Resume Screening and Career Guidanc
 
 The platform leverages Python, Streamlit, Machine Learning, and Natural Language Processing techniques to deliver meaningful insights that help candidates improve their resumes and prepare for their desired roles.
 
+## 🌐 Live Demo
+
+🚀 Try the application here:
+
+https://ai-resume-screening-system-pedhkoadbrxh5xb286ykhw.streamlit.app/
+
 ## Key Features
 
 * 📄 Resume Parsing and Text Extraction from PDF resumes
