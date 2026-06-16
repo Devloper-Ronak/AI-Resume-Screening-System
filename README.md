@@ -32,3 +32,27 @@ The platform leverages Python, Streamlit, Machine Learning, and Natural Language
 The objective of this project is to bridge the gap between academic skills and industry requirements by providing candidates with actionable insights that enhance employability and improve resume quality.
 
 This project demonstrates the practical application of Artificial Intelligence, Machine Learning, Data Analysis, and Software Development concepts in solving real-world recruitment and career guidance challenges.
+
+# 📷 Project Screenshots
+
+## 🏠 Home Page
+
+![Home Page](screenshots/Home.png)
+
+---
+
+## 📊 Dashboard
+
+![Dashboard](screenshots/Dashboard.png)
+
+---
+
+## 💻 Skill Analysis
+
+![Skill Analysis](screenshots/Skills_analysis.png)
+
+---
+
+## 💼 Career Recommendations
+
+![Career Recommendations](screenshots/Carrer_recommendation.png)
